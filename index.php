@@ -17,7 +17,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TipRecipePhp</title>
+    <title>TipRecipePhpThu2</title>
 </head>
 
 
